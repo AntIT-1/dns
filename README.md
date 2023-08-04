@@ -4,7 +4,7 @@
 </p>
 
 <h1>Building Intuition for DNS </h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines inspection of A-records on a DNS server, creating our own A-record and touch on CNAME records. 
 
 
 
