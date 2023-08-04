@@ -23,8 +23,8 @@ This tutorial outlines inspection of A-records on a DNS server, creating our own
 
 
 A-Record Exercise:
-From Client-1 try to ping “mainframe” notice that it fails
-Nslookup “mainframe” notice that it fails (no DNS record)
+From Client-1 try to ping “mainframe” notice that it fails.
+If you Nslookup “mainframe” you will notice that it fails as well (no DNS record).
 
 ![image](https://github.com/AntIT-1/dns/assets/141161539/3f04996e-c1d8-4204-b24c-ede8e11eea70)
 
