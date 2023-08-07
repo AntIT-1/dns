@@ -68,7 +68,7 @@ Flush the DNS cache (ipconfig /flushdns). Observe that the cache is empty
 
 
 
-Attempt to ping “mainframe” again. Observe the address of the new record is showing up
+Attempt to ping “mainframe” again. Observe the address of the new record is showing up since it was changed in the DNS records. 
 
 ![image](https://github.com/AntIT-1/dns/assets/141161539/82152922-360b-48b1-8fbc-05b5ab87decc)
 
