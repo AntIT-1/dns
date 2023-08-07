@@ -72,7 +72,7 @@ Attempt to ping “mainframe” again. Observe the address of the new record is 
 
 ![image](https://github.com/AntIT-1/dns/assets/141161539/82152922-360b-48b1-8fbc-05b5ab87decc)
 
-CNAME Record Exercise:
+CNAME Record Exercise: A canonical name (CNAME) is a type of Domain Name System (DNS) record that indicates that a domain name is the nickname or alias for another domain name.
 
 Go back to DC-1 and create a CNAME record that points the host “search” to “www.google.com”
 
