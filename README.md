@@ -27,7 +27,7 @@ If you Nslookup “mainframe” you will notice that it fails as well (no DNS re
 
 ![image](https://github.com/AntIT-1/dns/assets/141161539/3f04996e-c1d8-4204-b24c-ede8e11eea70)
 
-After entering NSLOOKUP "mainframe", you can see that there is no DNS record for this. 
+After entering NSLOOKUP "mainframe", you can see that there is no DNS record for this. We are about to change this.  
 
 ![image](https://github.com/AntIT-1/dns/assets/141161539/86548bfa-6155-43a1-aa84-fe9bdf842091)
 
