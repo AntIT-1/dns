@@ -4,8 +4,7 @@
 </p>
 
 <h1>Building Intuition for DNS </h1>
-This tutorial outlines inspection of A-records on a DNS server, creating our own A-record and touch on CNAME records. 
-
+In this tutorial I will inspect A-records on a DNS server and create an A-record. I wil also touch on CNAME records. 
 
 
 
