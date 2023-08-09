@@ -21,7 +21,7 @@ In this tutorial I will inspect A-records on a DNS server and create an A-record
 - Windows 10 (21H2)
 
 
-A-Record Exercise:
+<h2>A-Record Exercise</h2>
 We can begin by trying to ping “mainframe” from Client-1. Notice that it fails.
 If you Nslookup “mainframe” you will notice that it fails as well (no DNS record).There is nothing in the DNS records that will associate "mainframe" to an IP address in the Domain. Thats what a DNS is used for. The A-records are instructions that live in authoritative DNS servers and provide information about a domain.
 
@@ -71,7 +71,12 @@ Attempt to ping “mainframe” again. Observe the address of the new record is 
 
 ![image](https://github.com/AntIT-1/dns/assets/141161539/82152922-360b-48b1-8fbc-05b5ab87decc)
 
-CNAME Record Exercise: A canonical name (CNAME) is a type of Domain Name System (DNS) record that indicates that a domain name is the nickname or alias for another domain name.
+<h2>CNAME (Canonical name) Exercise</h2>
+A canonical name (CNAME) is a type of Domain Name System (DNS) record that indicates that a domain name is the nickname or alias for another domain name.
+
+
+
+
 
 Go back to DC-1 and create a CNAME record that points the host “search” to “www.google.com”
 
