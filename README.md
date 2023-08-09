@@ -74,10 +74,6 @@ Attempt to ping “mainframe” again. Observe the address of the new record is 
 <h2>CNAME (Canonical name) Exercise</h2>
 A canonical name (CNAME) is a type of Domain Name System (DNS) record that indicates that a domain name is the nickname or alias for another domain name.
 
-
-
-
-
 Go back to DC-1 and create a CNAME record that points the host “search” to “www.google.com”
 
 
