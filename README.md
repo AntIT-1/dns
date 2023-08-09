@@ -22,6 +22,7 @@ In this tutorial I will inspect A-records on a DNS server and create an A-record
 
 
 <h2>A-Record Exercise</h2>
+
 We can begin by trying to ping “mainframe” from Client-1. Notice that it fails. If you Nslookup “mainframe” you will notice that it fails as well (no DNS record). There is nothing in the DNS records that will associate "mainframe" to an IP address in the Domain. Thats what a DNS is used for. The A-records are instructions that live in authoritative DNS servers and provide information about a domain.
 
 
