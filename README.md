@@ -81,11 +81,11 @@ Go back to DC-1 and create a CNAME record that points the host “search” to �
 
 ![image](https://github.com/AntIT-1/dns/assets/141161539/ec07008f-e8ea-40c8-948e-d228f57c8c26)
 
-Go back to Client-1 and attempt to ping “search”, observe the results of the CNAME record. 
+Go back to Client-1 and attempt to ping “search”, observe the results of the CNAME record. The word "search" was resolved to www.google.com because of the CNAME settings we changed in the DNS record.   
 
 ![image](https://github.com/AntIT-1/dns/assets/141161539/ac59ddf3-7987-4204-8250-21d3d1c13180)
 
-The word "search" was resolved to www.google.com because of the CNAME settings we changed. 
+
 
 
 
